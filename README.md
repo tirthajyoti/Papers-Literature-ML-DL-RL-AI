@@ -1,5 +1,5 @@
 # Papers-Literature-ML-DL-RL-AI
-### Widely cited and pioneering papers related to machine learning (ML), Deep learning (DL), Reinforcement learning (RL), Artificial intelligence (AI)
+### Widely cited and pioneering papers, and free tutorials/books related to machine learning (ML), Deep learning (DL), Reinforcement learning (RL), Artificial intelligence (AI)
 
 ![](https://raw.githubusercontent.com/tirthajyoti/Papers-Literature-ML-DL-AI/master/Images/What-is-machine-learning_Definition.jpg)
 
