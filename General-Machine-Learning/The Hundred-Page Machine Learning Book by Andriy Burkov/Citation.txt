@@ -1,0 +1,8 @@
+@book{book,
+author = {Andriy Burkov}, 
+title = {The Hundred-Page Machine Learning Book},
+publisher = {Kindle Direct Publishing},
+year = 2019,
+edition = 1,
+isbn = {9781790485000}
+}
