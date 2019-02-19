@@ -1,4 +1,4 @@
-## Feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science/AI/machine learning and like to connect.
+## Feel free to [add me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science/AI/machine learning and like to connect.
 
 # Papers and Literature on ML/DL/RL/AI
 [![GitHub issues](https://img.shields.io/github/issues/tirthajyoti/Papers-Literature-ML-DL-RL-AI.svg)](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/issues)
