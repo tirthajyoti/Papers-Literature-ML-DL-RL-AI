@@ -8,5 +8,6 @@
 - [Chapter 8: Introduction](http://bit.ly/theMLbook-Chapter-8)
 - [Chapter 9: Introduction](http://bit.ly/theMLbook-Chapter-9)
 - [Chapter 10: Introduction](http://bit.ly/theMLbook-Chapter-10)
+- [Chapter 11: Introduction](http://bit.ly/theMLbook-Chapter-11)
 
 **Note**: The chapters are downloadable as PDFs but the contents are constantly updated by the author which is why the links. 
