@@ -11,7 +11,7 @@
 
 ![](https://raw.githubusercontent.com/tirthajyoti/Papers-Literature-ML-DL-AI/master/Images/What-is-machine-learning_Definition.jpg)
 
-### 1. [AI Hardware](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/AI-Game-Theory)
+### 1. [AI Hardware](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/tree/master/AI%20Hardware)
 ### 2. [Artificial Intelligence (AI), and Game Theory](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/AI-Game-Theory)
 ### 3. [Deep Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Deep-learning)
 ### 4. [General Machine Learning topics](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/General-Machine-Learning)
