@@ -1,4 +1,4 @@
-## Feel free to [add me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
+## Please feel free to [add me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
 
 # Papers and Literature on ML/DL/RL/AI
 [![GitHub issues](https://img.shields.io/github/issues/tirthajyoti/Papers-Literature-ML-DL-RL-AI.svg)](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/issues)
