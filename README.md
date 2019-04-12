@@ -1,5 +1,3 @@
-## Please feel free to [add me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
-
 # Papers and Literature on ML/DL/RL/AI
 [![GitHub issues](https://img.shields.io/github/issues/tirthajyoti/Papers-Literature-ML-DL-RL-AI.svg)](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/issues)
 [![GitHub forks](https://img.shields.io/github/forks/tirthajyoti/Papers-Literature-ML-DL-RL-AI.svg)](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/network)
@@ -18,3 +16,6 @@
 ### 5. [Reinforcement Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Reinforcement%20Learning)
 ### 6. [Statistics and Statistical Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Statistics%20and%20Statistical%20Learning)
 ### 7. [Learning Theory](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Learning%20Theory)
+
+
+## Please feel free to [add me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
