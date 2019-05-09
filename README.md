@@ -7,7 +7,7 @@
 
 ### Widely cited and pioneering papers, and free tutorials/books related to machine learning (ML), Deep learning (DL), Reinforcement learning (RL), Artificial intelligence (AI)
 
-![](https://raw.githubusercontent.com/tirthajyoti/Papers-Literature-ML-DL-AI/master/Images/What-is-machine-learning_Definition.jpg)
+![ML def](https://raw.githubusercontent.com/tirthajyoti/Papers-Literature-ML-DL-AI/master/Images/What-is-machine-learning_Definition.jpg)
 
 ### 1. [AI Hardware](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/tree/master/AI%20Hardware)
 ### 2. [Artificial Intelligence (AI), and Game Theory](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/AI-Game-Theory)
