@@ -6,7 +6,7 @@
 - [Chapter 6: Neural Networks and Deep Learning](http://bit.ly/theMLbook-Chapter-6)
 - [Chapter 7: Problems and Solutions](http://bit.ly/theMLbook-Chapter-7)
 - [Chapter 8: Advanced Practice](http://bit.ly/theMLbook-Chapter-8)
-- [Chapter 9: Unsupervised Learning](http://bit.ly/theMLbook-Chapter-9)
+- [Chapter 9: Unsupervised Learning](https://www.dropbox.com/s/y9a7b0hzmuksqar/Chapter9.pdf?dl=0)
 - [Chapter 10: Other Forms of Learning](http://bit.ly/theMLbook-Chapter-10)
 - [Chapter 11: Conclusion](http://bit.ly/theMLbook-Chapter-11)
 
