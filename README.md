@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/pulls)
 [![Github commits](https://img.shields.io/github/commit-activity/y/tirthajyoti/Papers-Literature-ML-DL-RL-AI.svg)](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/stats/contributors)
 
-### Widely cited and pioneering papers, and free tutorials/books related to machine learning (ML), Deep learning (DL), Reinforcement learning (RL), Artificial intelligence (AI)
+### Widely cited and pioneering papers, and free tutorials/books related to statistical modeling, machine learning (ML), Deep learning (DL), Reinforcement learning (RL), Artificial intelligence (AI)
 
 ![ML def](https://raw.githubusercontent.com/tirthajyoti/Papers-Literature-ML-DL-AI/master/Images/What-is-machine-learning_Definition.jpg)
 
