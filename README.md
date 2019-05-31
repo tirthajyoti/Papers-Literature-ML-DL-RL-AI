@@ -12,6 +12,7 @@
 ### [AI Hardware](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/tree/master/AI%20Hardware)
 ### [Artificial Intelligence (AI), and Game Theory](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/AI-Game-Theory)
 ### [Deep Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Deep-learning)
+### [Fairness, Bias, and Ethics in AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/tree/master/Fairness%2C%20Bias%2C%20Ethics%20in%20AI%20and%20ML)
 ### [General Machine Learning topics](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/General-Machine-Learning)
 ### [Reinforcement Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Reinforcement%20Learning)
 ### [Statistics and Statistical Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Statistics%20and%20Statistical%20Learning)
