@@ -16,7 +16,7 @@
 ### [General Machine Learning topics](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/General-Machine-Learning)
 ### [Reinforcement Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Reinforcement%20Learning)
 ### [Statistics and Statistical Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Statistics%20and%20Statistical%20Learning)
-### 7. [Learning Theory](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Learning%20Theory)
+### [Learning Theory](https://github.com/tirthajyoti/Papers-Literature-ML-DL-AI/tree/master/Learning%20Theory)
 
 
 ## Please feel free to [add me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
