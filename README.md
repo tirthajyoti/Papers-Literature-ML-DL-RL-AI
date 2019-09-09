@@ -7,7 +7,7 @@
 
 # Impactful Papers and Literature on ML/DL/RL/AI
 
-### Widely cited and pioneering papers, and free tutorials/books related to statistical modeling, machine learning (ML), Deep learning (DL), Reinforcement learning (RL), Artificial intelligence (AI), and its their various applications
+**Widely cited and pioneering papers, and free tutorials/books related to statistical modeling, machine learning (ML), Deep learning (DL), Reinforcement learning (RL), Artificial intelligence (AI), and its their various applications**
 
 ![ML def](https://raw.githubusercontent.com/tirthajyoti/Papers-Literature-ML-DL-AI/master/Images/What-is-machine-learning_Definition.jpg)
 
