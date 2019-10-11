@@ -8,7 +8,7 @@
 **Widely cited and impactful papers, and free tutorials/books related to Artificial intelligence (AI), statistical modeling, Machine Learning (ML), Deep learning (DL), Reinforcement learning (RL) and their various applications.**
 
 ## Maintainer
-Collected and maintained by [Dr. Tirthajyoti Sarkar](https://tirthajyoti.github.io).
+Papers collected and maintained by [Dr. Tirthajyoti Sarkar](https://tirthajyoti.github.io).
 <br>Please feel free to [add me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
 
 ![ML def](https://raw.githubusercontent.com/tirthajyoti/Papers-Literature-ML-DL-AI/master/Images/What-is-machine-learning_Definition.jpg)
