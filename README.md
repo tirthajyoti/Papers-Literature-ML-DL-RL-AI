@@ -7,7 +7,7 @@
 
 **Widely cited and impactful papers and free tutorials/books, related to Artificial intelligence (AI), statistical modeling, Machine Learning (ML), Deep learning (DL), Reinforcement learning (RL) and their various applications.**
 
-## Maintainer
+## Collector/maintainer
 Papers collected and maintained by [Dr. Tirthajyoti Sarkar](https://tirthajyoti.github.io).
 <br>Please feel free to [add me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
 
