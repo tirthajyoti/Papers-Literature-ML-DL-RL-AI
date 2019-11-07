@@ -5,7 +5,7 @@
 
 # Impactful Papers and Literature on ML/DL/RL/AI
 
-**Widely cited and impactful papers and free tutorials/books, related to Artificial intelligence (AI), statistical modeling, Machine Learning (ML), Deep learning (DL), Reinforcement learning (RL) and their various applications.**
+**Widely cited and impactful papers and free tutorials/books, related to Artificial intelligence (AI), statistical modeling, Machine Learning (ML), Deep learning (DL), Reinforcement learning (RL), and their various applications.**
 
 ## Collector/maintainer
 Papers collected and maintained by [Dr. Tirthajyoti Sarkar](https://tirthajyoti.github.io).
