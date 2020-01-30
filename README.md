@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/pulls)
 
 
-# Impactful Papers and Literature on ML/DL/RL/AI
+# Impactful and widely cited papers and literature on ML/DL/RL/AI
 
 **Widely cited and impactful papers/literature and free tutorials/books, related to Artificial intelligence (AI), statistical modeling, Machine Learning (ML), Deep learning (DL), Reinforcement learning (RL), and their various applications.**
 
